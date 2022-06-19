@@ -1,7 +1,7 @@
 ### Hello I'm Taha Cem
 ![version :17.08.2021](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=acarfx&color=red)&nbsp;
-[![GitHub acarfx](https://img.shields.io/github/followers/acarfx?label=follow&style=social)](https://github.com/acarfx)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=Cemchiiiii&color=red)&nbsp;
+[![GitHub Cemchiiiii](https://img.shields.io/github/followers/Cemchiiiii?label=follow&style=social)](https://github.com/Cemchiiiii)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 ### 🛠 &nbsp;Software Languages
