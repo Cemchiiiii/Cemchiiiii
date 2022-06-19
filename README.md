@@ -1,1 +1,24 @@
-# BenCemCanım <img src="https://komarev.com/ghpvc/?username=utw0&label=Ziyaretçi%20Sayısı&color=552b75" alt="Cemchiiiiii" /> <div align="center"> <img alt="GIF" src="https://camo.githubusercontent.com/fb545c5c9036e1c7acdd0baa2129c848f6c9e7272fdd40b9c51b42c1ef64ad13/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3836373835353139353138363739303436302f3837393834303530313535323030313033342f39616363323939663163396163343366376633356432316361643633636130612e706e67"/> </div> ## Buralardan ulaşabilirsiniz <div align="center"> <a href="https://www.instagram.com/cem_6007/?hl=tr" target"blank_"> <!--Sol tarafa bak abi orada kendi github linkini koy--> <img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://open.spotify.com/user/31y2ymu27zrul3oqqonqa4gx7sb4" target"blank_"> <img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a> </div> <div align="center"> <a href="https://discord.com/users/876840437921488908" target="_blank"> <img src="https://lanyard-profile-readme.vercel.app/api/876840437921488908?bg=111111"> </a> </div>
+### Hello I'm Taha Cem
+![version :17.08.2021](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=acarfx&color=red)&nbsp;
+[![GitHub acarfx](https://img.shields.io/github/followers/acarfx?label=follow&style=social)](https://github.com/acarfx)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
+
+### 🛠 &nbsp;Software Languages
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+### 📫 &nbsp; How to reach me:
+<a href="mailto:tahacem667@icloud.com"><img alt="Gmail" src="https://img.shields.io/badge/iCloud-D14836?style=flat&logo=icloud&logoColor=white" /></a> &nbsp;
+<a href="https://discord.com/users/876840437921488908"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
+<a href="https://instagram.com/cem_6007"><img src="https://img.shields.io/badge/@cem_6007-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+
